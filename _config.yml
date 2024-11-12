@@ -1,0 +1,9 @@
+title: Minnesota LGBT Transplant Resource Hub
+description: A guide and resource hub for LGBT individuals relocating to or considering relocating to Minnesota.
+theme: jekyll-theme-cayman
+url: "http://localhost:4000"  # This is helpful for local development
+
+github:
+  is_project_page: false
+
+markdown: kramdown  # or any other markdown processor like 'redcarpet'
