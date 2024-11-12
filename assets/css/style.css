@@ -1,1 +1,10 @@
+/* Apply Arvo to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', serif;
+}
+
+/* Apply Prompt to all other text */
+body {
+    font-family: 'Prompt', sans-serif;
+}
 
