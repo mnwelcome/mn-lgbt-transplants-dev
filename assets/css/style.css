@@ -55,3 +55,31 @@ body, html {
   height: auto;
 }
 
+/* Navigation styling */
+.site-navigation {
+  text-align: center;
+  background-color: #FF5733; /* Change to your preferred background color */
+  padding: 10px 0;
+  font-family: 'Prompt', sans-serif;
+}
+
+.site-navigation a {
+  color: #FFFFFF; /* Link color */
+  text-decoration: none;
+  margin: 0 15px; /* Space between links */
+  font-weight: bold;
+}
+
+.site-navigation a:hover {
+  color: #FFD700; /* Color when hovering over a link */
+  text-decoration: underline;
+}
+
+/* Optional: style the separator */
+.site-navigation a + a::before {
+  content: "|";
+  margin: 0 10px;
+  color: #FFFFFF; /* Match separator color to text */
+}
+
+
