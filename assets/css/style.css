@@ -26,3 +26,9 @@ body, html {
   margin: 0; /* Remove any default margin on h1 */
 }
 
+/* Main content wrapper with Cayman-like margin */
+.content-wrapper {
+  max-width: 800px; /* Set a maximum width similar to Cayman */
+  margin: 40px auto; /* Center content with margin on top and bottom */
+  padding: 0 20px; /* Add horizontal padding */
+}
