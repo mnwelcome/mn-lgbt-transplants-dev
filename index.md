@@ -3,7 +3,9 @@ layout: default
 title: "Home"
 ---
 
-<img src="pride-flag.jpg" alt="Pride Flag" width="50%" />
+[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
+
+---
 
 # About
 
