@@ -8,3 +8,9 @@ body {
     font-family: 'Prompt', sans-serif;
 }
 
+.site-title {
+  background-color: #F3EDD7; /* Replace with your desired color */
+  color: white; /* Text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border-radius: 5px; /* Optional, to round the corners */
+}
