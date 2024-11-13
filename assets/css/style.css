@@ -1,6 +1,7 @@
 /* Apply Arvo to all headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Arvo', serif;
+    color: #00A56A;
 }
 
 /* Apply Prompt to all other text */
@@ -26,7 +27,7 @@ body, html {
 
 /* Style for the header image */
 .header-image {
-  max-width: 300px; /* Adjust width as needed */
+  max-width: 500px; /* Adjust width as needed */
   height: auto;
 }
 
