@@ -46,7 +46,7 @@ body, html {
 /* Footer styling */
 .site-footer {
   text-align: center;
-  padding: 20px 0; /* Optional: adds space around the footer */
+  padding: 0 20px; /* Optional: adds space around the footer */
 }
 
 /* Footer image styling */
