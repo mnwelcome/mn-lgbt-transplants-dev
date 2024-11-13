@@ -58,7 +58,7 @@ body, html {
 /* Navigation styling */
 .site-navigation {
   text-align: center;
-  background-color: #FF5733; /* Change to your preferred background color */
+  background-color: #EE4A25; /* navigation bar color */
   padding: 10px 0;
   font-family: 'Prompt', sans-serif;
 }
@@ -71,7 +71,7 @@ body, html {
 }
 
 .site-navigation a:hover {
-  color: #FFD700; /* Color when hovering over a link */
+  color: #E6A622; /* Color when hovering over a link */
   text-decoration: underline;
 }
 
