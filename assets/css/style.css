@@ -18,7 +18,14 @@ body, html {
 .site-header {
   background-color: #F3EDD7; /* Replace with your desired color */
   color: white;
-  padding: 120px 120px; /* Adjust padding as needed */
+  padding: 200px 200px; /* Adjust padding as needed */
+}
+
+/* Style for the header image */
+.header-image {
+  max-width: 100px; /* Adjust width as needed */
+  height: auto;
+  margin-bottom: 20px; /* Space between image and title */
 }
 
 /* Adjust the styling for the title text */
