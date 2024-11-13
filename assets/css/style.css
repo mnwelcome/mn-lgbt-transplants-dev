@@ -42,3 +42,16 @@ body, html {
   margin: 40px auto; /* Center content with margin on top and bottom */
   padding: 0 20px; /* Add horizontal padding */
 }
+
+/* Footer styling */
+.site-footer {
+  text-align: center;
+  padding: 20px 0; /* Optional: adds space around the footer */
+}
+
+/* Footer image styling */
+.footer-image {
+  max-width: 100%; /* Makes the image responsive */
+  height: auto;
+}
+
