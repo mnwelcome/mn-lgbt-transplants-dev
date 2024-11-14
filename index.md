@@ -22,6 +22,6 @@ Explore resources to help you settle into Minnesota’s LGBT-friendly community!
 
 Get in touch with us!
 
-Email:
+Email: TCTransplants@gmail.com
 
 
