@@ -7,3 +7,6 @@ github:
   is_project_page: false
 
 markdown: kramdown  # or any other markdown processor like 'redcarpet'
+
+permalink: /:title/
+
