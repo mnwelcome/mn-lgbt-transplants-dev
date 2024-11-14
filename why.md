@@ -58,3 +58,7 @@ Minnesota is not only supportive of LGBT rights, but it’s also a highly rated 
 - Active Lifestyle and Beautiful Parks: Ranked highly for outdoor activities and park systems.
 
 For more about Minnesota’s quality of life, visit [Explore Minnesota](https://www.exploreminnesota.com/live).
+
+## Convinced?
+
+If you want to take the next step toward relocating, get started with our [Moving Guide](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
