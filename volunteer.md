@@ -3,11 +3,6 @@ layout: default
 title: "Volunteer"
 ---
 
-
-[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
-
----
-
 # Donate
 
 Please consider supporting our [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1WGVXG56XQUSP?ref_=wl_share)!
