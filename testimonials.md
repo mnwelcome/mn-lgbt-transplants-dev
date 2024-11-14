@@ -1,6 +1,7 @@
 ---
 title: "Testimonials"
 layout: default
+permalink: /testimonials/
 ---
 
 
