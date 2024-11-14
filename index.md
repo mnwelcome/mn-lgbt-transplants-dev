@@ -13,6 +13,7 @@ We are a grassroots community and mutual aid organization designed by queer peop
 
 Explore resources to help you settle into Minnesota’s LGBT-friendly community!
 
+- Our [Moving Guide](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
 - [Why Minnesota](why.md)
 - [Resources](resources.md)
 - [Testimonials](testimonials.md)
