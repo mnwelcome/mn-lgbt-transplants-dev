@@ -82,4 +82,23 @@ body, html {
   color: #FFFFFF; /* Match separator color to text */
 }
 
+/* Make links stay blue even after being clicked */
+a {
+  color: #007bff; /* Set this to your preferred blue color */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #007bff; /* Match this to the regular link color */
+}
+
+a:hover {
+  color: #0056b3; /* Optional: A slightly darker blue on hover */
+}
+
+a:active {
+  color: #004494; /* Optional: Even darker for active state */
+}
+
+
 
