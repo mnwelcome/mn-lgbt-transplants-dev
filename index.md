@@ -17,7 +17,7 @@ Explore resources to help you settle into Minnesota’s LGBT-friendly community!
 - [Why Minnesota](why.md)
 - [Resources](resources.md)
 - [Testimonials](testimonials.md)
-- [Volunteer](volunteer.md)
+- [Donate](volunteer.md)
 
 # Contact
 
