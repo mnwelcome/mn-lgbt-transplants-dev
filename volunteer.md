@@ -1,6 +1,6 @@
 ---
-title: "Volunteer"
 layout: default
+title: "Volunteer"
 ---
 
 
