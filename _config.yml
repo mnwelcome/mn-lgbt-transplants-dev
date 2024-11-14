@@ -8,5 +8,4 @@ github:
 
 markdown: kramdown  # or any other markdown processor like 'redcarpet'
 
-permalink: /:title/
 
