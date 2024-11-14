@@ -3,10 +3,6 @@ layout: default
 title: "Why Minnesota"
 ---
 
-[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
-
----
-
 # Why Consider Relocating to Minnesota?
 
 Transplanting for your own or your family’s safety is one of the hardest decisions you’ll make in your life. So many of us find ourselves bogged down in “can’ts” - I can’t leave my friends, I can’t leave my family, I can’t adjust to life in a new city. It’s a terrifying situation to be in. 
