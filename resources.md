@@ -3,9 +3,6 @@ title: "Resources"
 layout: default
 ---
 
-
-[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
-
 # Community and Support Resources
 
 To suggest a resource to add to this page please fill out the form at the bottom of the page.
