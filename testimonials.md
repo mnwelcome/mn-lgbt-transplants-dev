@@ -1,3 +1,9 @@
+---
+title: "Testimonials"
+layout: default
+---
+
+
 [Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
 
 # Testimonials
