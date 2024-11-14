@@ -71,7 +71,7 @@ body, html {
 }
 
 .site-navigation a:hover {
-  color: #E6A622; /* Color when hovering over a link */
+  color: #FFD700; /* Color when hovering over a link */
   text-decoration: underline;
 }
 
