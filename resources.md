@@ -13,9 +13,10 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Pink Unicorn](https://transresistancenetwork.wordpress.com/wp-content/uploads/2024/11/pink-unicorn-clean.pdf) Guide to organizing for 2STGE+ survival
 - [Truthout](https://truthout.org/articles/our-best-option-for-defending-ourselves-from-trumps-second-term-is-each-other/?fbclid=IwZXh0bgNhZW0CMTEAAR2jz_5cqSaflQOOnveFIACWwgE0MWqN8GidxOOFFgY9Tg0-JzGcpeZyJWY_aem_L6ICjGU14NxLH-kp6PdPDQ) Our Best Option for Defending Ourselves From Trump’s Second Term Is Each Other
 
-## Moving
+## TC Transplants Official Resources
 
-- The official Twin Cities Queer Transplants [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
+- [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
+- [Resource Packet](https://drive.google.com/file/d/18a1NbsyONkDhmY0jguD4ZVmXKV46sDbt/view?usp=sharing)
 
 ## Local Organizations
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
