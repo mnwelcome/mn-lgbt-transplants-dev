@@ -5,7 +5,7 @@ layout: default
 
 # Community and Support Resources
 
-To suggest a resource to add to this page please fill out the form at the bottom of the page.
+To suggest a resource to add to this page please fill out the form at the bottom.
 
 ## Moving
 
@@ -40,7 +40,6 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ## Social Groups and Events
 - [Eagles 34](https://www.eagles34.org/events-entertainment.html): dance events, including LGBT nights
 - [Grrrl Scout](grrrlscout.com): queer dance parties
-- [Twin Cities Queer Transplants](https://www.instagram.com/tctransplants): connecting queer newcomers and locals in the Twin Cities
 
 ## Businesses
 - [A Bar of Their Own](https://www.abaroftheirown.com/): Twin Cities' first sports bar that exclusively shows women's sports
