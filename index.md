@@ -15,6 +15,19 @@ Explore resources to help you settle into Minnesota’s LGBT-friendly community!
 - [Testimonials](testimonials.md)
 - [Donate](volunteer.md)
 
+# Our Events
+
+Join us for our monthly social at [Quatrefoil Library](https://qlibrary.org/series/twin-cities-queer-transplant-group/). We meet every 4th Wednesday at 7:00 PM
+
+Drop by to meet new people, learn about local LGBTQIA+ resources, chat, and share your favorite Twin Cities discoveries! Locals, partners, and family welcome.
+
+Upcoming Dates:
+
+- November 27th
+- December 18th
+- January 22nd
+- February 26th
+
 # Contact
 
 Get in touch with us!
