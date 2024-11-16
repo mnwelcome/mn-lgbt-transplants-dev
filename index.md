@@ -35,3 +35,6 @@ Get in touch with us!
 Email: TCTransplants@gmail.com
 
 
+Logo and branding by [Skye Shrader](https://skyeshrader.com/)
+
+
