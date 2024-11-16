@@ -55,7 +55,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ### Facebook Groups
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
-- [Queer Housing Mpls/St. Paul](https://www.facebook.com/share/g/1AiwX86ih3/?mibextid=K35XfP))  
+- [Queer Housing Mpls/St. Paul](https://www.facebook.com/share/g/1AiwX86ih3/?mibextid=K35XfP)  
 - [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
 - [TC 30+ Queer Book Club](https://www.facebook.com/share/g/1Q4SMwMQXn/)
 - [Twin Cities Bi+ Friends](https://www.facebook.com/share/g/15cJqdcmQk/)
