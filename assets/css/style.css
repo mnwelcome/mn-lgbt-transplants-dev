@@ -94,16 +94,11 @@ a:active {
 }
 
 blockquote {
-  border-left: 4px solid #6a1b9a; /* Purple border */
+  border-left: 4px solid #d3d3d3; /* Light gray border */
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  background-color: #f9f5ff; /* Light lavender background */
-  font-style: italic;
-  color: #444; /* Dark grey text */
+  background-color: #f9f9f9; /* Very light gray background */
+  color: #333; /* Dark gray text */
+  border-radius: 4px; /* Subtle rounded corners */
 }
-
-blockquote p {
-  margin: 0; /* Removes extra spacing in paragraph inside blockquote */
-}
-
 
