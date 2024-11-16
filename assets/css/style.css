@@ -93,9 +93,4 @@ a:active {
   text-decoration: underline;
 }
 
-/* Optional: style the separator */
-.site-navigation a + a::before {
-  content: "|";
-  margin: 0 10px;
-  color: #FFFFFF; /* Match separator color to text */
-}
+
