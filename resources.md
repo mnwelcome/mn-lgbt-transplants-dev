@@ -19,15 +19,16 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
 - [Resource Packet](https://drive.google.com/file/d/18a1NbsyONkDhmY0jguD4ZVmXKV46sDbt/view?usp=sharing)
 
-## Local Organizations
+## Local LGBT Resources
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
 - [MTIRIN](https://mntirnetwork.org/): MN Trans and Intersex Resource Network, assists trans intersex folks coming to MN
 - [Trans Resource Directory](https://docs.google.com/document/d/1-1Z7KYtcjrxwvMOy3Luwt6ICnCpt5sgNTrYGPZtW_yk/edit?usp=sharing): list of trans-friendly community resources/overall resources for Minnesota
 - [Twin Cities Pride ](https://tcpride.org/community-resources/)
   - Includes health, support and social groups, youth, and housing services.
 - [mntranshousing](https://linktr.ee/mntranshousing): Housing+clinics+ community+support groups and more for trans ppl moving to MN
+- [Resources for Trans and Nonbinary Job Seekers](https://careers.augsburg.edu/resources/resources-for-trans-and-nonbinary-job-seekers/)
 
-## General Resources, not LGBT Specific
+## General MN Resources, not LGBT Specific
 - [Cost of Living Tool](https://mn.gov/deed/data/data-tools/col/)
 - [Driver and Vehicle Services - New to Minnesota](https://dps.mn.gov/divisions/dvs/Pages/new-to-minnesota.aspx)
 - [Homeownership Programs](https://www.mnhousing.gov/homeownership/buy-a-home---refinance.html)
