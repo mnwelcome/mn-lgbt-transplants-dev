@@ -15,7 +15,7 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 > "I moved from Missouri (kc area) to Duluth for a better life. I didn’t want to have to worry about my bodily autonomy anymore. Minnesota is a breath of fresh air! Everyone is nice and welcoming and the nature is breathtaking. I live in Duluth and have easy access to hiking trails, waterfalls and both sand and rock beaches. It feels like Colorado and Washington had a baby but with Midwest prices. I highly recommend relocating! We have great healthcare, politics and education."
 
-### From Oklahoma to the Twin Cities suburbs
+### From Oklahoma to the Twin Cities Suburbs
 
 > "My wife is originally from Minnesota. We lived in Oklahoma for several years, and the plan was that after college we would save up and move to the Twin Cities so that she could be close to her family.
 >
@@ -33,7 +33,7 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 > "My ex-wife, who is still my best friend, is transgender.  We have a daughter together.  We all decided Texas was no longer a safe place for my ex, our daughter, or my ex-'s girlfriend, who is also trans.  While I would have been ok in Texas, they would not have been due to anti-trans legislature that Texas has been passing and the lists of transgender people that Ken Paxton has been compiling.  Since my boyfriend is from Minnesota and since Minnesota has been protecting it's LGBTQ people, we decided it would be the perfect place to go.  More than anything, I miss my family and the food in Texas, but the safety and future of my daughter and my ex are extremely important to me.  I don't want my daughter to grow up in a state where rapists get to choose who becomes the mother of their child.  I want her to be able to control her own body and make those choices for herself, as they are no one else's business.  I'm currently in nursing school in this state, in a wonderful program and everyone is extremely friendly!  The culture here is so diverse, which I feel is necessary for children to be exposed to different peoples.  The more you experience and learn about others, the more empathetic and loving you can be.  Growing up sheltered leads to racism, sexism, and bigotry."
 
-### From A Local in the TC Suburbs
+### From A Local in the Twin Cities Suburbs
 
 > "I was born and raised in the beautiful state of Minnesota, just a short 10-minute drive from the vibrant city of Saint Paul. Throughout my life, I have been fortunate to experience an overwhelming amount of kindness and acceptance from 98% of the people around me. 
 >
