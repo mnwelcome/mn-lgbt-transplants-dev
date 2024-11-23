@@ -41,13 +41,8 @@ We want to hear your story. Visit this form to share what you love about Minneso
 >
 > I take immense pride in calling this place my home. Having spent a year in Florida, I've seen firsthand how difficult it can be for LGBTQ+ individuals in less accepting environments. That experience only deepened my drive to help folks like us and my appreciation for Minnesota, which serves as a refuge and sanctuary for for people like us. We welcome everyone with open arms, and we want to remind you that you have a home here, always. Minnesota is brimming with kind, intelligent, and hardworking individuals who tirelessly advocate for our rights, striving to create a safer and better world for all. Personally, I have never faced bathroom or changing room discrimination in Minnesota; in fact, l've never encountered discrimination at all here. It wasn't until I moved to the South that I faced the harsh realities of intolerance. Here in Minnesota, I don't fear for my safety.
 >
-> Every day, I thank the universe that I have the privilege of calling this place my home. I genuinely pray that each and every one of you finds your way here. In Minnesota, you will be surrounded by good people who will stand by you and fight with you for your rights. 
-Here, you will find community.
-Here, you will find love.
-Here, you will find support.
-Here, you will find acceptance.
-Here, you will be safe.
-As as 25-year-old transgender woman, I wholeheartedly believe that Minnesota is one of the best places in America for people like us.
-So, come join us in this incredible, beautiful state where kindness reigns and everyone is welcome!"
+> Every day, I thank the universe that I have the privilege of calling this place my home. I genuinely pray that each and every one of you finds your way here. In Minnesota, you will be surrounded by good people who will stand by you and fight with you for your rights. Here, you will find community. Here, you will find love. Here, you will find support. Here, you will find acceptance. Here, you will be safe.
+>
+> As as 25-year-old transgender woman, I wholeheartedly believe that Minnesota is one of the best places in America for people like us. So, come join us in this incredible, beautiful state where kindness reigns and everyone is welcome!"
 
 ---
