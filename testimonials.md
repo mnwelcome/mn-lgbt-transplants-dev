@@ -33,4 +33,19 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 > "My ex-wife, who is still my best friend, is transgender.  We have a daughter together.  We all decided Texas was no longer a safe place for my ex, our daughter, or my ex-'s girlfriend, who is also trans.  While I would have been ok in Texas, they would not have been due to anti-trans legislature that Texas has been passing and the lists of transgender people that Ken Paxton has been compiling.  Since my boyfriend is from Minnesota and since Minnesota has been protecting it's LGBTQ people, we decided it would be the perfect place to go.  More than anything, I miss my family and the food in Texas, but the safety and future of my daughter and my ex are extremely important to me.  I don't want my daughter to grow up in a state where rapists get to choose who becomes the mother of their child.  I want her to be able to control her own body and make those choices for herself, as they are no one else's business.  I'm currently in nursing school in this state, in a wonderful program and everyone is extremely friendly!  The culture here is so diverse, which I feel is necessary for children to be exposed to different peoples.  The more you experience and learn about others, the more empathetic and loving you can be.  Growing up sheltered leads to racism, sexism, and bigotry."
 
+### From A Local in the TC Suburbs
+
+> "I was born and raised in the beautiful state of Minnesota, just a short 10-minute drive from the vibrant city of Saint Paul. Throughout my life, I have been fortunate to experience an overwhelming amount of kindness and acceptance from 98% of the people around me. 
+>
+> My journey with my gender identity has been a complex one. For years, I felt lost and confused, but through my own exploration and self-discovery, I came to understand that I am transgender. At the age of 15, I bravely came out to my family, my community, and my church. To my delight, I was embraced with love and support.
+> While there will always be a few who harbor negative feelings, the kindness that surrounds me has far overshadowed any hate. I take immense pride in calling this place my home. Having spent a year in Florida, I've seen firsthand how difficult it can be for LGBTQ+ individuals in less accepting environments. That experience only deepened my drive to help folks like us and my appreciation for Minnesota, which serves as a refuge and sanctuary for for people like us. We welcome everyone with open arms, and we want to remind you that you have a home here, always. Minnesota is brimming with kind, intelligent, and hardworking individuals who tirelessly advocate for our rights, striving to create a safer and better world for all. Personally, I have never faced bathroom or changing room discrimination in Minnesota; in fact, l've never encountered discrimination at all here. It wasn't until I moved to the South that I faced the harsh realities of intolerance. 
+Here in Minnesota, I don't fear for my safety. Every day, I thank the universe that I have the privilege of calling this place my home. I genuinely pray that each and every one of you finds your way here. In Minnesota, you will be surrounded by good people who will stand by you and fight with you for your rights. 
+Here, you will find community.
+Here, you will find love.
+Here, you will find support.
+Here, you will find acceptance.
+Here, you will be safe.
+As as 25-year-old transgender woman, I wholeheartedly believe that Minnesota is one of the best places in America for people like us.
+So, come join us in this incredible, beautiful state where kindness reigns and everyone is welcome!"
+
 ---
