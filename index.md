@@ -7,7 +7,7 @@ title: "Home"
 
 We are a grassroots community and mutual aid organization designed by queer people, for queer people, who are new to the Twin Cities and Minnesota or are considering moving here. (Allies and locals are welcome!). Our goal is to help people from diverse backgrounds make friends, find community, give and receive support, share experiences, and explore the Twin Cities and greater Minnesota together.
 
-Explore resources to help you settle into Minnesota’s LGBT-friendly community!
+Explore resources to help you settle into Minnesota’s LGBT-friendly community! For group updates sign up for our monthly [newsletter](https://dashboard.mailerlite.com/forms/908699/123246211168732820/share).
 
 - Our [Moving Guide](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
 - [Why Minnesota](why.md)
@@ -23,10 +23,19 @@ Drop by to meet new people, learn about local LGBTQIA+ resources, chat, and shar
 
 Upcoming Dates:
 
-- November 27th
 - December 18th
 - January 22nd
 - February 26th
+- March 26th
+
+# Need Assistance?
+
+Send us an email! We aren't able to provide cash to folks, but we can help with
+
+- Transportation
+- Job and housing searching
+- Showing you around
+- Answering questions and providing recommendations
 
 # Contact
 
