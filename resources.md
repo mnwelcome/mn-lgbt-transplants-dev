@@ -26,7 +26,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Trans Resource Directory](https://docs.google.com/document/d/1-1Z7KYtcjrxwvMOy3Luwt6ICnCpt5sgNTrYGPZtW_yk/edit?usp=sharing): list of trans-friendly community resources/overall resources for Minnesota
 - [Twin Cities Pride ](https://tcpride.org/community-resources/)
   - Includes health, support and social groups, youth, and housing services.
-- [mntranshousing](https://linktr.ee/mntranshousing): Housing+clinics+ community+support groups and more for trans ppl moving to MN
+- [mntranshousing](https://linktr.ee/mntranshousing): Housing clinics, community support groups, and more for trans people moving to MN
 - [Resources for Trans and Nonbinary Job Seekers](https://careers.augsburg.edu/resources/resources-for-trans-and-nonbinary-job-seekers/)
 - [Twin Cities Trans Mutual Aid](https://www.instagram.com/tctransmutualaid/?hl=en): Supporting and amplifying the material needs of trans folks in the Twin Cities
 
