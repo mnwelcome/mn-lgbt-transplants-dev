@@ -18,6 +18,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 
 - [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
 - [Resource Packet](https://drive.google.com/file/d/18a1NbsyONkDhmY0jguD4ZVmXKV46sDbt/view?usp=sharing)
+- [Moving Checklist and Expense Tracker](https://docs.google.com/spreadsheets/d/1MGwB3Wp_DbSagHRdN-DyCnKbGEITHxzO/edit?usp=sharing&ouid=117383457638087612765&rtpof=true&sd=true)
 
 ## Local LGBT Resources
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
@@ -27,6 +28,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
   - Includes health, support and social groups, youth, and housing services.
 - [mntranshousing](https://linktr.ee/mntranshousing): Housing+clinics+ community+support groups and more for trans ppl moving to MN
 - [Resources for Trans and Nonbinary Job Seekers](https://careers.augsburg.edu/resources/resources-for-trans-and-nonbinary-job-seekers/)
+- [Twin Cities Trans Mutual Aid](https://www.instagram.com/tctransmutualaid/?hl=en): Supporting and amplifying the material needs of trans folks in the Twin Cities
 
 ## General MN Resources, not LGBT Specific
 - [Cost of Living Tool](https://mn.gov/deed/data/data-tools/col/)
