@@ -23,19 +23,21 @@ Drop by to meet new people, learn about local LGBTQIA+ resources, chat, and shar
 
 Upcoming Dates:
 
-- December 18th
 - January 22nd
 - February 26th
 - March 26th
+- April 23rd
 
 # Need Assistance?
 
 Send us an email! We aren't able to provide cash to folks, but we can help with
 
-- Transportation
+- Rideshare and transportation to important events such as job interviews, the airport, doctors appointments, and other urgent needs
+- Help unloading U-hauls, transporting furniture, and anything else related to your move that requires queer muscle
 - Job and housing searching
+- Peer assistance navigating tricky paperwork
 - Showing you around
-- Answering questions and providing recommendations
+- And more!
 
 # Contact
 
