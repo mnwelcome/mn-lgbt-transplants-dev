@@ -23,10 +23,10 @@ Drop by to meet new people, learn about local LGBTQIA+ resources, chat, and shar
 
 Upcoming Dates:
 
-- January 22nd
 - February 26th
 - March 26th
 - April 23rd
+- May 28th
 
 # Need Assistance?
 
