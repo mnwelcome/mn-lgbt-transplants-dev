@@ -8,6 +8,9 @@ layout: default
 To suggest a resource to add to this page please fill out the form at the bottom.
 
 ## Articles
+- [Trump Executive Orders on Gender Identity: Minnesota Law Protects Despite Federal Pushback](https://www.wantathome.com/trump-executive-orders-on-gender-identity-minnesota-law-protects-despite-federal-pushback/)
+- [OutFront's Post Inauguration Community Guide](https://www.outfront.org/sites/default/files/post-inauguration%20community%20guide.pdf)
+- [ACLU Passports and Gender Markers Intake](https://forms.office.com/Pages/ResponsePage.aspx?id=6XZWc5QkD0q_MUveoekZhrm_yKeGM7BFu9h12tsMqqJUMThRV0k3N0hDNFRFWFJPTzJDSERIUU9GUiQlQCN0PWcu): Tell us about your passport/gender marker concerns under the new presidential administration.
 - [Well, Shit](https://stainedglasswoman.substack.com/p/well-shit): Some practical tips to get ready for what's coming
 - [Erin in the Morning](https://www.erininthemorning.com/p/steps-for-transgender-people-preparing): Steps For Transgender People Preparing For Federal Crackdowns Under Trump
 - [Pink Unicorn](https://transresistancenetwork.wordpress.com/wp-content/uploads/2024/11/pink-unicorn-clean.pdf) Guide to organizing for 2STGE+ survival
@@ -52,6 +55,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ## Social Groups and Events
 - [Eagles 34](https://www.eagles34.org/events-entertainment.html): dance events, including LGBT nights
 - [Grrrl Scout](grrrlscout.com): queer dance parties
+- [Queermunity](https://www.queermunitymn.com/): a resource center and social club committed to bringing the LGBTQ+ community together in Minneapolis
 
 ## Businesses
 - [A Bar of Their Own](https://www.abaroftheirown.com/): Twin Cities' first sports bar that exclusively shows women's sports
