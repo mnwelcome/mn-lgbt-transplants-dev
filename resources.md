@@ -7,7 +7,7 @@ layout: default
 
 To suggest a resource to add to this page please fill out the form at the bottom.
 
-## Articles
+## Current Events
 - [Trump Executive Orders on Gender Identity: Minnesota Law Protects Despite Federal Pushback](https://www.wantathome.com/trump-executive-orders-on-gender-identity-minnesota-law-protects-despite-federal-pushback/)
 - [OutFront's Post Inauguration Community Guide](https://www.outfront.org/sites/default/files/post-inauguration%20community%20guide.pdf)
 - [ACLU Passports and Gender Markers Intake](https://forms.office.com/Pages/ResponsePage.aspx?id=6XZWc5QkD0q_MUveoekZhrm_yKeGM7BFu9h12tsMqqJUMThRV0k3N0hDNFRFWFJPTzJDSERIUU9GUiQlQCN0PWcu): Tell us about your passport/gender marker concerns under the new presidential administration.
