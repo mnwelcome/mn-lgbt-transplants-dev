@@ -76,6 +76,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 
 ### Facebook Groups
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
+- [MN Outdoor Queer Adventures](https://www.facebook.com/share/g/1A1AcNFMz5/?mibextid=lOuIew)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
 - [Queer Housing Mpls/St. Paul](https://www.facebook.com/share/g/1AiwX86ih3/?mibextid=K35XfP)  
 - [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
