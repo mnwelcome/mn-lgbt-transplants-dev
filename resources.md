@@ -8,6 +8,8 @@ layout: default
 To suggest a resource to add to this page please fill out the form at the bottom.
 
 ## Current Events
+- [Minnesota Reformer](https://minnesotareformer.com/2025/02/07/minnesota-attorney-general-sues-trump-over-order-halting-funding-for-gender-affirming-care/): Minnesota attorney general sues Trump over order halting funding for gender-affirming care
+- [Transgender athletes in Minnesota can play sports matching gender identity despite Trump order, MSHSL says](https://www.cbsnews.com/minnesota/news/minnesota-state-high-school-league-transgender-athletes/)
 - [Trump Executive Orders on Gender Identity: Minnesota Law Protects Despite Federal Pushback](https://www.wantathome.com/trump-executive-orders-on-gender-identity-minnesota-law-protects-despite-federal-pushback/)
 - [OutFront's Post Inauguration Community Guide](https://www.outfront.org/sites/default/files/post-inauguration%20community%20guide.pdf)
 - [ACLU Passports and Gender Markers Intake](https://forms.office.com/Pages/ResponsePage.aspx?id=6XZWc5QkD0q_MUveoekZhrm_yKeGM7BFu9h12tsMqqJUMThRV0k3N0hDNFRFWFJPTzJDSERIUU9GUiQlQCN0PWcu): Tell us about your passport/gender marker concerns under the new presidential administration.
@@ -67,6 +69,10 @@ To suggest a resource to add to this page please fill out the form at the bottom
 
 ### YouTube Channels
 - [To The Twin Cities](https://www.youtube.com/@tothetwincities): channel helping people along their journey To The Twin Cities
+
+### Instagram
+- [TC Queer Transplants](https://www.instagram.com/tctransplants/)
+- [Thinking About Moving to Minnesota](https://www.instagram.com/thinkingaboutmovingtominnesota/): A slice of Minnesota life for everyone thinking about moving to Minnesota
 
 ### Facebook Groups
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
