@@ -15,7 +15,7 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 > "The second Trump was announced as the winner I started looking for a new job in a trans sanctuary state, and finished moving to MN by early December. It's been interesting to say the least, I have grown to love it here.
 >
-> Unlike most trans people who will move to this state, I suspect, I'm not a city person so I'm a bit out in the country, closer to Fargo/Moorhead (The Cities) than the Twin cities. I've moved to a small town and my experience has been wonderful so far. The community is so kind, caring, helpful, and they're constantly doing events. Back home in Indiana, a town twice the size of the one > I now reside in, there was nothing to do, ever. Here, they advertise public groups and book clubs and theater clubs and orchestras and local dnd groups and just anything and everything to get involved with various types of festivals.
+> Unlike most trans people who will move to this state, I suspect, I'm not a city person so I'm a bit out in the country, closer to Fargo/Moorhead (The Cities) than the Twin cities. I've moved to a small town and my experience has been wonderful so far. The community is so kind, caring, helpful, and they're constantly doing events. Back home in Indiana, a town twice the size of the one I now reside in, there was nothing to do, ever. Here, they advertise public groups and book clubs and theater clubs and orchestras and local dnd groups and just anything and everything to get involved with various types of festivals.
 >
 > I'm not the most clockable trans woman in the world, but I've also not had a single bad experience with anyone. The few people that do know I'm a flavor or two of queer have been extraordinarily supportive.
 >
