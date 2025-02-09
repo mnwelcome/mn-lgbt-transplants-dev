@@ -31,6 +31,10 @@ Tim Walz will continue his term as governor. In his first post-election [remarks
 
 > "Minnesota always has and always will be there to provide shelter from the storm...I still believe with all my heart, America can be a place where no child is left hungry, no community is left behind and no one gets told they don’t belong. And the reason I believe it so strongly is I've seen it with my own eyes, because it's happened right here in Minnesota. And because of our example, millions of Americans believe in it too."
 
+In [response](https://bsky.app/profile/governorwalz.mn.gov/post/3lhmm43trjk2z) to a series of executive orders targeting transgender people, he has made clear that he will continue to protect Minnesota's LGBT community. 
+
+> "As the forces of hatred are on the march, my promise is this: Our trans neighbors will continue to be safe, protected, and welcome in Minnesota."
+
 ## Recent Progressive Legislation
 
 The legislature has passed many progressive bills in recent years. 
