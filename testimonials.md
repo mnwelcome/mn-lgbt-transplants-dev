@@ -11,6 +11,18 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 ---
 
+### From Indiana to Northwest Minnesota
+
+> "The second Trump was announced as the winner I started looking for a new job in a trans sanctuary state, and finished moving to MN by early December. It's been interesting to say the least, I have grown to love it here.
+>
+> Unlike most trans people who will move to this state, I suspect, I'm not a city person so I'm a bit out in the country, closer to Fargo/Moorhead (The Cities) than the Twin cities. I've moved to a small town and my experience has been wonderful so far. The community is so kind, caring, helpful, and they're constantly doing events. Back home in Indiana, a town twice the size of the one > I now reside in, there was nothing to do, ever. Here, they advertise public groups and book clubs and theater clubs and orchestras and local dnd groups and just anything and everything to get involved with various types of festivals.
+>
+> I'm not the most clockable trans woman in the world, but I've also not had a single bad experience with anyone. The few people that do know I'm a flavor or two of queer have been extraordinarily supportive.
+>
+> It's a struggle not having my support network from back home, all the trans people I had joined support groups with. It's hard being away from family. But I'm recreating a support network here, and it's going quicker than I would've expected. And I've already met people ready to help me at a moments notice if something were to happen to me or, more likely with this freezing weather, my car.
+> 
+> All in all. The support programs are great. The people are amazing. The community is tight. There's more to do. It's cold. I wish I would've grown up here, it's like living in one of those small town hallmark movies."
+
 ### From Missouri to Duluth
 
 > "I moved from Missouri (kc area) to Duluth for a better life. I didn’t want to have to worry about my bodily autonomy anymore. Minnesota is a breath of fresh air! Everyone is nice and welcoming and the nature is breathtaking. I live in Duluth and have easy access to hiking trails, waterfalls and both sand and rock beaches. It feels like Colorado and Washington had a baby but with Midwest prices. I highly recommend relocating! We have great healthcare, politics and education."
