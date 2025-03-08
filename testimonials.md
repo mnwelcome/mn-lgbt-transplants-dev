@@ -11,6 +11,10 @@ We want to hear your story. Visit this form to share what you love about Minneso
 
 ---
 
+### From Florida to Minneapolis
+
+> "Tampa native, my family and I loved our home state, which use to be a fairly progressive LGBTQ+ city, however, the shift to anti-trans rhetoric during Covid left us questioning our future there. As time progressed, things become more hostile and in 2021 our only LGBTQ+ health clinic was threatened with violence, protestors and extremists. We could no longer see our medical team for care without the possibility of being harmed. Families like ours stopped coming together for meet ups for fear of general public. Our hormone medication became harder to acquire due to regulations and insurance denials. We had to transfer care online to an online doctor in Atlanta. As if all of that wasn't stressful enough, the state was now requiring us to register who knows what to the state simply because someone in our family is transgender. By the end of 2022, we decided that if we could afford it, we needed to plan to relocate as soon as we could so the plan to move to a safe state began. After a quick trip to the dollar store, one giant state map, we circled every place we could transfer to and it came down to Colorado and Minnesota. In 2023, we flew to Minnesota first and three weeks later Colorado and after a week of deliberation and one round of voting Minnesota was the winner. We moved here towards the end of summer 2023, and as hard as that move was it was the best thing we ever did. We were able to start healthcare services right away, no delays or invasive requirements. No issues getting medications filled. No harassment at the grocery store, or mall, or downtown. Minneapolis has some amazing state parks and lakes. We do miss the beach and cuban food but Minnesota is home and I truly wish we'd come here sooner."
+
 ### From Indiana to Northwest Minnesota
 
 > "The second Trump was announced as the winner I started looking for a new job in a trans sanctuary state, and finished moving to MN by early December. It's been interesting to say the least, I have grown to love it here.
