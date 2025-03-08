@@ -7,23 +7,21 @@ layout: default
 
 To suggest a resource to add to this page please fill out the form at the bottom.
 
-## Current Events
-- [Minnesota Reformer](https://minnesotareformer.com/2025/02/07/minnesota-attorney-general-sues-trump-over-order-halting-funding-for-gender-affirming-care/): Minnesota attorney general sues Trump over order halting funding for gender-affirming care
-- [Transgender athletes in Minnesota can play sports matching gender identity despite Trump order, MSHSL says](https://www.cbsnews.com/minnesota/news/minnesota-state-high-school-league-transgender-athletes/)
-- [Trump Executive Orders on Gender Identity: Minnesota Law Protects Despite Federal Pushback](https://www.wantathome.com/trump-executive-orders-on-gender-identity-minnesota-law-protects-despite-federal-pushback/)
-- [OutFront's Post Inauguration Community Guide](https://www.outfront.org/sites/default/files/post-inauguration%20community%20guide.pdf)
-- [ACLU Passports and Gender Markers Intake](https://forms.office.com/Pages/ResponsePage.aspx?id=6XZWc5QkD0q_MUveoekZhrm_yKeGM7BFu9h12tsMqqJUMThRV0k3N0hDNFRFWFJPTzJDSERIUU9GUiQlQCN0PWcu): Tell us about your passport/gender marker concerns under the new presidential administration.
-- [Well, Shit](https://stainedglasswoman.substack.com/p/well-shit): Some practical tips to get ready for what's coming
-- [Erin in the Morning](https://www.erininthemorning.com/p/steps-for-transgender-people-preparing): Steps For Transgender People Preparing For Federal Crackdowns Under Trump
-- [Pink Unicorn](https://transresistancenetwork.wordpress.com/wp-content/uploads/2024/11/pink-unicorn-clean.pdf) Guide to organizing for 2STGE+ survival
-- [Truthout](https://truthout.org/articles/our-best-option-for-defending-ourselves-from-trumps-second-term-is-each-other/?fbclid=IwZXh0bgNhZW0CMTEAAR2jz_5cqSaflQOOnveFIACWwgE0MWqN8GidxOOFFgY9Tg0-JzGcpeZyJWY_aem_L6ICjGU14NxLH-kp6PdPDQ) Our Best Option for Defending Ourselves From Trump’s Second Term Is Each Other
-- [Racket](https://racketmn.com/where-to-volunteer-donate-time-money-minneapolis-st-paul-minnesota) Mad? Sad? Motivated? 60+ MN Orgs Working to Make the Next 4 Years (and Then Some) Suck Less
-
 ## TC Transplants Official Resources
 
 - [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
 - [Resource Packet](https://drive.google.com/file/d/18a1NbsyONkDhmY0jguD4ZVmXKV46sDbt/view?usp=sharing)
 - [Moving Checklist and Expense Tracker](https://docs.google.com/spreadsheets/d/1MGwB3Wp_DbSagHRdN-DyCnKbGEITHxzO/edit?usp=sharing&ouid=117383457638087612765&rtpof=true&sd=true)
+
+## Current Events
+- [Legislation to bar transgender athletes from girls sports falls short of passage in House](https://www.house.mn.gov/sessiondaily/Story/18545)
+- [Transgender athletes in Minnesota can play sports matching gender identity despite Trump order, MSHSL says](https://www.cbsnews.com/minnesota/news/minnesota-state-high-school-league-transgender-athletes/)
+- [Trump Executive Orders on Gender Identity: Minnesota Law Protects Despite Federal Pushback](https://www.wantathome.com/trump-executive-orders-on-gender-identity-minnesota-law-protects-despite-federal-pushback/)
+- [OutFront's Post Inauguration Community Guide](https://www.outfront.org/sites/default/files/post-inauguration%20community%20guide.pdf)
+- [ACLU Passports and Gender Markers Intake](https://forms.office.com/Pages/ResponsePage.aspx?id=6XZWc5QkD0q_MUveoekZhrm_yKeGM7BFu9h12tsMqqJUMThRV0k3N0hDNFRFWFJPTzJDSERIUU9GUiQlQCN0PWcu): Tell us about your passport/gender marker concerns under the new presidential administration.
+- [Pink Unicorn](https://transresistancenetwork.wordpress.com/wp-content/uploads/2024/11/pink-unicorn-clean.pdf) Guide to organizing for 2STGE+ survival
+- [Truthout](https://truthout.org/articles/our-best-option-for-defending-ourselves-from-trumps-second-term-is-each-other/?fbclid=IwZXh0bgNhZW0CMTEAAR2jz_5cqSaflQOOnveFIACWwgE0MWqN8GidxOOFFgY9Tg0-JzGcpeZyJWY_aem_L6ICjGU14NxLH-kp6PdPDQ) Our Best Option for Defending Ourselves From Trump’s Second Term Is Each Other
+- [Racket](https://racketmn.com/where-to-volunteer-donate-time-money-minneapolis-st-paul-minnesota) Mad? Sad? Motivated? 60+ MN Orgs Working to Make the Next 4 Years (and Then Some) Suck Less
 
 ## Local LGBT Resources
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
