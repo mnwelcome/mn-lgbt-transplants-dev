@@ -9,4 +9,5 @@ A library of things is a collection of items that are loaned out to the communit
 
 We also plan to have designated items for permanent giveaway, especially for recently arrived trans refugees!
 
-<iframe src="https://plot.myturn.com/library/embed" width="100%" height="600" style="border: none;"></iframe>
+<div id="myturn-embed-frame"><iframe src="https://plot.myturn.com/library/inventory/browse?embed=true" width="100%" scrolling="no" height="1500" style="border:0;"></iframe></div>
+<script id="myturn-embed-script" src="https://plot.myturn.com/library/assets/ui/myturn-embed/myturn-embed.js"></script>
