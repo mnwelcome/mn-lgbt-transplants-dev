@@ -24,6 +24,7 @@ Drop by to meet new people, learn about local LGBTQIA+ resources, chat, and shar
 Upcoming Dates:
 
 - April 23rd
+  - Our April social will be held at the Twin Cities Pride Cultural Arts center.
 - May 28th
 - June 25th
 - July 23rd
